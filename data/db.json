@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "fun",
+      "display_name": "Fun Stuff",
+      "description": "this stuff is fun"
+    },
+    {
+      "id": "2",
+      "name": "orange",
+      "display_name": "Orange Stuff",
+      "description": "this stuff is Orange"
+    },
+    {
+      "id": "3",
+      "name": "green",
+      "display_name": "Green Stuff",
+      "description": "this stuff is Green"
+    },
+    {
+      "id": "4",
+      "name": "blue",
+      "display_name": "Blue Stuff",
+      "description": "this stuff is Blue"
+    },
+    {
+      "id": "5",
+      "name": "pink",
+      "display_name": "Pink Stuff",
+      "description": "this stuff is Pink"
+    },
+    {
+      "id": "6",
+      "name": "yellow",
+      "display_name": "Yellow Stuff",
+      "description": "this stuff is Yellow"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "fun",
+      "name": "funSomething",
+      "display_name": "Fun Stuff",
+      "description": "this stuff is fun"
+    },
+    {
+      "id": "2",
+      "category": "orange",
+      "name": "orangeSomething",
+      "display_name": "Orange Stuff",
+      "description": "this stuff is Orange"
+    },
+    {
+      "id": "3",
+      "category": "green",
+      "name": "greenSomething",
+      "display_name": "Green Stuff",
+      "description": "this stuff is Green"
+    },
+    {
+      "id": "4",
+      "category": "blue",
+      "name": "blueSomething",
+      "display_name": "Blue Stuff",
+      "description": "this stuff is Blue"
+    },
+    {
+      "id": "5",
+      "category": "pink",
+      "name": "pinkSomething",
+      "display_name": "Pink Stuff",
+      "description": "this stuff is Pink"
+    },
+    {
+      "id": "6",
+      "category": "yellow",
+      "name": "yellowSomething",
+      "display_name": "Yellow Stuff",
+      "description": "this stuff is Yellow"
+    }
+  ]
+}
